@@ -1,0 +1,38 @@
+
+
+
+h5{
+    font-size: 1.4em;
+}
+.headcolor
+{
+
+	background-color: #993300;
+    height:100px;
+	
+}
+.headcolor2
+{
+	background-color: #993300;
+	height:50px; 	
+}
+.headcolor3
+{
+    background-color: #ff0066;
+	opacity: 0.8;
+	height:50px; 
+}
+
+.headfont
+{
+	font-size:xx-large;
+	color:white;
+	font-weight: bold;
+}
+.navbar{
+	background-color: white;
+}
+
+.mb4{
+	margin-bottom:40px;
+}

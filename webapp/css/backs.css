@@ -1,0 +1,21 @@
+#mytitle
+{
+	background-color: #7278cd;
+ color: white;
+ margin: 0px;
+ font-weight: bold;
+}
+#mytitle:HOVER {
+	background-color: black;
+}
+#mynavmain
+{
+	background-color: #82E0AA;
+
+}
+#btcolor
+{
+	background-color: #48cf30;
+	color:white;
+	border: 1px solid white;
+}
